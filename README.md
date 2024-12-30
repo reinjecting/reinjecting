@@ -9,7 +9,7 @@
 
 
 # 📚 Projects
-* **[Example](https://example.com**
+* **[Example](https://example.com)**
   * Example Layout
 
 

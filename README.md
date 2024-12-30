@@ -23,7 +23,7 @@
 <br>
 <img src="https://github-readme-stats.vercel.app/api?username=reinjecting&show_icons=true&theme=radical&count_private=true" alt="Github Stats"/>
 <p align="center">
-  <img src ="https://github-readme-streak-stats.herokuapp.com?user=reinjecting&theme=radical&hide_border=true">
+  <img src ="https://github-readme-streak-stats.herokuapp.com?user=reinjecting&theme=radical&hide_border=false">
   <br>
   <br>
  

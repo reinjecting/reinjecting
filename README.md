@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🕸️ reinjecting
+# 🕸️ ReInjecting
 
 <img src="https://readme-typing-svg.herokuapp.com/?lines=Self+Taught+Developer;Cyber+Security+Researcher;Reversing+What+Should+Stay+Dead;&font=Fira%20Code&center=true&width=460&height=50&color=8B0000&vCenter=true">
 
@@ -15,20 +15,20 @@
 
 ---
 
-## 🩸 infrastructure
+## 🩸 Infrastructure
 
 <div align="center">
 
 | | domain | purpose |
 |:---:|---|---|
-| 🩻 | **[xor.tools](https://xor.tools)** | Zoe infrastructure — where signals get split, recombined, sent back changed |
-| 🔩 | **[nand.services](https://nand.services)** | reversing & missing — where things get taken apart to be understood |
+| 🩻 | **[xor.tools](https://xor.tools)** | Xor infrastructure — where signals get split, recombined, sent back changed |
+| 🔩 | **[nand.services](https://nand.services)** | Reversing & Modding — where things get taken apart to be understood |
 
 </div>
 
 ---
 
-## 🐍 activity
+## 🐍 Activity
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/reinjecting/reinjecting/output/github-contribution-grid-snake-dark.svg" alt="snake animation" width="100%"/>
@@ -40,7 +40,7 @@
 
 ---
 
-## 🏆 trophies
+## 🏆 Trophies
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=reinjecting&theme=darkhub&no-frame=true&row=2&column=4" alt="trophies"/>
@@ -48,14 +48,14 @@
 
 ---
 
-## 📚 projects
+## 📚 Projects
 
 * **[Example](https://example.com)**
   * Example Layout
 
 ---
 
-## 📈 stats
+## 📈 Stats
 
 <br>
 

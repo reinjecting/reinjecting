@@ -58,16 +58,9 @@
 ## 📈 stats
 
 <br>
+
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=reinjecting&label=Profile%20views&color=8B0000&style=flat" alt="Reinjecting" />
-<br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=reinjecting&theme=chartreuse-dark&layout=compact" alt="Github Stats"/>
-<br>
-<img src="https://github-readme-stats.vercel.app/api?username=reinjecting&show_icons=true&theme=chartreuse-dark&count_private=true" alt="Github Stats"/>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=reinjecting&theme=chartreuse-dark&hide_border=false">
-  <br>
-  <br>
+  <img src="https://raw.githubusercontent.com/reinjecting/reinjecting/main/metrics.svg" alt="metrics" width="100%"/>
 </p>
 
 <!--

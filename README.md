@@ -1,75 +1,86 @@
 <div align="center">
 
-# 🕷️ reinjecting
+# 🕸️ reinjecting
 
-### *something got back in.*
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Self+Taught+Developer;Cyber+Security+Researcher;Reversing+What+Should+Stay+Dead;&font=Fira%20Code&center=true&width=460&height=50&color=8B0000&vCenter=true">
 
-```
-   ██████╗ ███████╗██╗███╗   ██╗     ██╗███████╗ ██████╗████████╗██╗███╗   ██╗ ██████╗
-   ██╔══██╗██╔════╝██║████╗  ██║     ██║██╔════╝██╔════╝╚══██╔══╝██║████╗  ██║██╔════╝
-   ██████╔╝█████╗  ██║██╔██╗ ██║     ██║█████╗  ██║        ██║   ██║██╔██╗ ██║██║  ███╗
-   ██╔══██╗██╔══╝  ██║██║╚██╗██║██   ██║██╔══╝  ██║        ██║   ██║██║╚██╗██║██║   ██║
-   ██║  ██║███████╗██║██║ ╚████║╚█████╔╝███████╗╚██████╗   ██║   ██║██║ ╚████║╚██████╔╝
-   ╚═╝  ╚═╝╚══════╝╚═╝╚═╝  ╚═══╝ ╚════╝ ╚══════╝ ╚═════╝   ╚═╝   ╚═╝╚═╝  ╚═══╝ ╚═════╝
-```
-
-*payloads that come back from the dead.*
+*"what's removed, comes back. what's broken, still runs."*
 
 </div>
 
----
-
-## 👻 what lurks here
-
-`reinjecting` is a toolkit for putting things back where they don't belong — payloads, packets, processes, whatever crawled out of memory and needs a way home. It doesn't ask why. It just reinjects.
-
-> *"We removed it. We're not sure how it's back."* — someone, in the logs
+<p align="center">
+  <a href="https://github.com/reinjecting?tab=followers">
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/reinjecting?color=8B0000&labelColor=1a1a1a&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+</p>
 
 ---
 
-## 🩸 the infrastructure
-
-Two houses, two purposes. Enter at your own risk.
-
-| domain | role | what happens there |
-|---|---|---|
-| 🩻 **[xor.tools](https://xor.tools)** | **Zoe infrastructure** | the control plane. where the signal gets split, recombined, and sent back out — changed. |
-| 🔩 **[nand.services](https://nand.services)** | **reversing & missing** | the dead-drop for anything that had to be pulled apart to be understood — and the things that never made it back. |
-
----
-
-## 🕸️ install
-
-```bash
-git clone https://github.com/reinjecting/reinjecting.git
-cd reinjecting
-# it's already listening.
-```
-
----
-
-## ⚰️ usage
-
-```bash
-reinject --target <process> --payload <artifact>
-```
-
-Use responsibly. Some things, once reinjected, don't leave again.
-
----
-
-## 🦇 status
+## 🩸 infrastructure
 
 <div align="center">
 
-`● building in the dark` &nbsp;|&nbsp; `● tested at 3am` &nbsp;|&nbsp; `● stable-ish`
+| | domain | purpose |
+|:---:|---|---|
+| 🩻 | **[xor.tools](https://xor.tools)** | Zoe infrastructure — where signals get split, recombined, sent back changed |
+| 🔩 | **[nand.services](https://nand.services)** | reversing & missing — where things get taken apart to be understood |
 
 </div>
 
 ---
 
-## 🖤 license
+## 🐍 activity
 
-Whatever you find in here was already yours. Take it back.
+<p align="center">
+  <img src="https://raw.githubusercontent.com/reinjecting/reinjecting/output/github-contribution-grid-snake-dark.svg" alt="snake animation" width="100%"/>
+</p>
 
-</div>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=reinjecting&theme=react-dark&hide_border=true&bg_color=0d0d0d&color=8B0000&line=8B0000&point=ffffff" alt="activity graph" width="100%"/>
+</p>
+
+---
+
+## 🏆 trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=reinjecting&theme=darkhub&no-frame=true&row=2&column=4" alt="trophies"/>
+</p>
+
+---
+
+## 📚 projects
+
+* **[Example](https://example.com)**
+  * Example Layout
+
+---
+
+## 📈 stats
+
+<br>
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=reinjecting&label=Profile%20views&color=8B0000&style=flat" alt="Reinjecting" />
+<br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=reinjecting&theme=chartreuse-dark&layout=compact" alt="Github Stats"/>
+<br>
+<img src="https://github-readme-stats.vercel.app/api?username=reinjecting&show_icons=true&theme=chartreuse-dark&count_private=true" alt="Github Stats"/>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=reinjecting&theme=chartreuse-dark&hide_border=false">
+  <br>
+  <br>
+</p>
+
+<!--
+**reinjecting/reinjecting** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
